@@ -1,0 +1,10 @@
+{
+  "cities": [
+    {
+	  "city" : "Gdańsk"
+	},
+	{
+	  "city" : "Gdynia"
+	}
+  ]
+}
